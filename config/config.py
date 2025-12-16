@@ -1,0 +1,2 @@
+bot_token = "8468721445:AAE_gH59WTuFORH6a15Gy9Mt3y8adBhBEwM"
+admins = 8316828703
